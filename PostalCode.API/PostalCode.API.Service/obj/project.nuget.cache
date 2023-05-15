@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "ShA99Q0U3PE1TEDQvr2BjOoPJ+n8plEAL5XRBr/37sopVr4wP8BzNZa0mIug+YCAr0eqyer6UpcJk3ag42bPPw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\laxmi\\source\\repos\\PostalCode.API\\PostalCode.API.Service\\PostalCode.API.Service.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\laxmi\\.nuget\\packages\\microsoft.extensions.configuration\\7.0.0\\microsoft.extensions.configuration.7.0.0.nupkg.sha512",
+    "C:\\Users\\laxmi\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\laxmi\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0\\microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\laxmi\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "C:\\Users\\laxmi\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\laxmi\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\laxmi\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
