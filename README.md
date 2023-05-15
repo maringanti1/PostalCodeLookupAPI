@@ -64,9 +64,9 @@ Modify the aws-lambda-tools-defaults.json file to specify the S3 bucket name and
 
 After the stack creation completes, note the API Gateway endpoint URL in the stack outputs. We can use this URL to access the Postcode lookup API.
 
-**https://postalcodeweb.s3.amazonaws.com/index.html**
+React App: https://postalcodeweb.s3.amazonaws.com/index.html
 
-**https://g8w4x6soxi.execute-api.us-east-1.amazonaws.com/Prod/autocomplete/ig27n**
+Web API - https://g8w4x6soxi.execute-api.us-east-1.amazonaws.com/Prod/swagger/index.html  
 
 **Implemented Features**
 **Base Controller**
