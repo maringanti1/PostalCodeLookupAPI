@@ -1,10 +1,10 @@
 **# PostalCodeAPI - API Development using AWS Lambda and .NET Core**
 
 **PostalCodeAPI** is a project that utilizes the Postcode and Geolocation API for the UK to provide a user-friendly interface for querying and managing postal codes in the UK.  
-**
-React App: https://postalcodeweb.s3.amazonaws.com/index.html
 
-Web API - https://g8w4x6soxi.execute-api.us-east-1.amazonaws.com/Prod/swagger/index.html  **
+**React App: https://postalcodeweb.s3.amazonaws.com/index.html**
+
+**Web API - https://g8w4x6soxi.execute-api.us-east-1.amazonaws.com/Prod/swagger/index.html **
 
 The project is divided into several components:
 
