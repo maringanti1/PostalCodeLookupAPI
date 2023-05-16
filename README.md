@@ -4,7 +4,7 @@
 
 **React App: https://postalcodeweb.s3.amazonaws.com/index.html**
 
-**Web API - https://g8w4x6soxi.execute-api.us-east-1.amazonaws.com/Prod/swagger/index.html **
+**Web API - https://g8w4x6soxi.execute-api.us-east-1.amazonaws.com/Prod/swagger/index.html**
 
 The project is divided into several components:
 
