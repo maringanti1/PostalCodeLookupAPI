@@ -45,6 +45,9 @@ The stack takes the following configuration parameters:
 
 **template:** The filename of the CloudFormation template to use. Default: "serverless.template".
 
+**https://g8w4x6soxi.execute-api.us-east-1.amazonaws.com/Prod/api/PostCodesLookup/autocomplete/ig27nh**
+
+**https://g8w4x6soxi.execute-api.us-east-1.amazonaws.com/Prod/api/PostCodesLookup/lookup/ig27nh**
 
 **Resources Created**
 The stack creates the following resources:
