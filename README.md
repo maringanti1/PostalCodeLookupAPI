@@ -61,7 +61,7 @@ To deploy the CloudFormation stack:
 Install the AWS CLI and configure it with an access key and secret key that has permissions to create CloudFormation stacks and S3 buckets.
 
 Clone the Postcode Lookup API project and navigate to the AWS/CloudFormation directory.
-**https://github.com/maringanti1/PostalCodeAPI.git**
+**https://github.com/maringanti1/PostalCodeLookupAPI.git**
 
 Modify the aws-lambda-tools-defaults.json file to specify the S3 bucket name and stack name.
 
